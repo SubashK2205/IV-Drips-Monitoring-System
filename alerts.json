@@ -1,0 +1,20 @@
+{
+  "alert1": {
+    "deviceId": "IV-DEVICE-004",
+    "alertType": "iv_empty",
+    "severity": "critical",
+    "timestamp": 1719878400000,
+    "status": "active",
+    "resolved": false,
+    "battery": 15
+  },
+  "alert2": {
+    "deviceId": "IV-DEVICE-003",
+    "alertType": "battery_low",
+    "severity": "high",
+    "timestamp": 1719878400000,
+    "status": "active",
+    "resolved": false,
+    "battery": 23
+  }
+}
